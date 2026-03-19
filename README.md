@@ -1,12 +1,9 @@
 <div align="center">
-
 <img width="100%" src="./header.svg" alt="emanuelfuduli — Frontend & Backend Developer" />
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=0d1117)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0d1117)
 ![](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
-
-*Estudiante de Ingeniería Informática 🎓.*
 
 </div>
 
@@ -16,14 +13,25 @@
 
 ```javascript
 const emanuelfuduli = {
-  rol:        "Estudiante de Ingeniería Informática",
-  foco:       ["Frontend", "Backend"],
-  stack:      ["JavaScript", "React", "Node.js"],
+  rol:         "Estudiante de Ingeniería Informática",
+  foco:        ["Frontend", "Backend"],
+  stack:       ["JavaScript", "React", "Node.js"],
   aprendiendo: "Cada día algo nuevo 🚀",
-  portafolio: "🔗 Próximamente...",
-  open_to:    "Colaboraciones & proyectos",
+  portafolio:  "🔗 Próximamente...",
+  open_to:     "Colaboraciones & proyectos",
 };
 ```
+
+---
+
+## 🚀 Proyectos Destacados
+
+> 🔧 *Sección en construcción — los proyectos se van actualizando con cada commit.*
+
+| Proyecto | Descripción | Tech |
+|---|---|---|
+| 🌐 **Portafolio Web** | Mi sitio personal — *próximamente* | React · Node.js |
+| 🔨 **Próximo proyecto** | En desarrollo... | JS · ... |
 
 ---
 
@@ -42,34 +50,6 @@ const emanuelfuduli = {
 
 ---
 
-## 🚀 Proyectos Destacados
-
-> 🔧 *Sección en construcción — los proyectos se van actualizando con cada commit.*
-
-| Proyecto | Descripción | Tech |
-|---|---|---|
-| 🌐 **Portafolio Web** | Mi sitio personal — *próximamente* | React · Node.js |
-| 🔨 **Próximo proyecto** | En desarrollo... | JS · ... |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=emanuelfuduli&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelfuduli&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=emanuelfuduli&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
-
-</div>
-
----
-
 ## 🌐 Portafolio
 
 <div align="center">
@@ -83,7 +63,6 @@ const emanuelfuduli = {
 ---
 
 <div align="center">
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:0d1117&height=100&section=footer&animation=fadeIn" />
