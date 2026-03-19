@@ -19,7 +19,7 @@
 
 ```javascript
 const emanuelfuduli = {
-  rol:        "Estudiante de Desarrollo Web",
+  rol:        "Estudiante de Ingeniería Informática",
   foco:       ["Frontend", "Backend"],
   stack:      ["JavaScript", "React", "Node.js"],
   aprendiendo: "Cada día algo nuevo 🚀",
