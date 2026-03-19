@@ -1,17 +1,12 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:0d1117&height=220&section=header&text=emanuelfuduli&fontSize=52&fontColor=c9d1d9&fontAlignY=40&fontAlign=50&desc=Frontend%20%26%20Backend%20Developer&descAlignY=60&descAlign=50&descSize=17&descColor=58a6ff&animation=fadeIn&stroke=58a6ff&strokeWidth=1" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:0d1117&height=220&section=header&text=emanuelfuduli&fontSize=52&fontColor=c9d1d9&fontAlignY=40&fontAlign=50&desc=Frontend%20%26%20Backend%20Developer&descAlignY=60&descAlign=50&descSize=17&descColor=58a6ff&animation=fadeIn&stroke=58a6ff&strokeWidth=1" alt="emanuelfuduli — Frontend & Backend Developer" />
-</picture>
-
-### `emanuelfuduli` · Frontend & Backend Developer
+<img width="100%" src="./header.svg" alt="emanuelfuduli — Frontend & Backend Developer" />
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=0d1117)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0d1117)
 ![](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
 
-*Building the web, one commit at a time.*
+*Estudiante de Ingeniería Informática 🎓.*
 
 </div>
 
