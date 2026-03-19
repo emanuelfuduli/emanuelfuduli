@@ -1,15 +1,17 @@
 <div align="center">
 
-<!-- Header animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=emanuelfuduli&fontSize=50&fontColor=c9d1d9&fontAlignY=38&desc=Frontend%20%26%20Backend%20Developer&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:0d1117&height=220&section=header&text=emanuelfuduli&fontSize=52&fontColor=c9d1d9&fontAlignY=40&fontAlign=50&desc=Frontend%20%26%20Backend%20Developer&descAlignY=60&descAlign=50&descSize=17&descColor=58a6ff&animation=fadeIn&stroke=58a6ff&strokeWidth=1" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:0d1117&height=220&section=header&text=emanuelfuduli&fontSize=52&fontColor=c9d1d9&fontAlignY=40&fontAlign=50&desc=Frontend%20%26%20Backend%20Developer&descAlignY=60&descAlign=50&descSize=17&descColor=58a6ff&animation=fadeIn&stroke=58a6ff&strokeWidth=1" alt="emanuelfuduli — Frontend & Backend Developer" />
+</picture>
 
-</div>
+### `emanuelfuduli` · Frontend & Backend Developer
 
-<div align="center">
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=0d1117)
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0d1117)
+![](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
 
-```
-▌ Building the web, one commit at a time ▌
-```
+*Building the web, one commit at a time.*
 
 </div>
 
@@ -19,7 +21,7 @@
 
 ```javascript
 const emanuelfuduli = {
-  rol:        "Estudiante de Ingeniería Informática",
+  rol:        "Estudiante de Desarrollo Web",
   foco:       ["Frontend", "Backend"],
   stack:      ["JavaScript", "React", "Node.js"],
   aprendiendo: "Cada día algo nuevo 🚀",
@@ -87,7 +89,11 @@ const emanuelfuduli = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:161b22,100:0d1117&height=100&section=footer&animation=fadeIn" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:0d1117&height=100&section=footer&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:0d1117&height=100&section=footer&animation=fadeIn" alt="" />
+</picture>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=emanuelfuduli.emanuelfuduli&left_color=161b22&right_color=58a6ff&left_text=Visitas)
 
