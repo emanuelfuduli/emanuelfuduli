@@ -55,7 +55,7 @@ const emanuelfuduli = {
 
 > 🔗 *https://emanuelfuduli.vercel.app
 >
-> *Estoy construyendo mi portafolio web — volvé pronto.*
+
 
 </div>
 
