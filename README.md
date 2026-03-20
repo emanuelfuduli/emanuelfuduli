@@ -17,7 +17,7 @@ const emanuelfuduli = {
   foco:        ["Frontend", "Backend"],
   stack:       ["JavaScript", "React", "Next.js", "Node.js"],
   aprendiendo: "Cada día algo nuevo 🚀",
-  portafolio:  "🔗 Próximamente...",
+  portafolio:  "🔗https://emanuelfuduli.vercel.app/",
   open_to:     "Colaboraciones & proyectos",
 };
 ```
