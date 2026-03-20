@@ -30,7 +30,7 @@ const emanuelfuduli = {
 |---|---|---|
 | 🤖 **[StudyBot](https://github.com/emanuelfuduli/StudyBot)** | Asistente de estudio con IA — chat, resumen de textos y generador de exámenes | Next.js · Claude API |
 | 💬 **[ChatETF](https://github.com/emanuelfuduli/ChatETF)** | Clon de ChatGPT con historial, login con Google, base de datos y soporte de imágenes | Next.js · Prisma · Claude API |
-| 🌐 **Portafolio Web** | Mi sitio personal — *próximamente* | React · Node.js |
+| 🌐 **Portafolio Web** | Mi sitio personal — https://emanuelfuduli.vercel.app/* | React · Node.js |
 
 ---
 
@@ -53,7 +53,7 @@ const emanuelfuduli = {
 
 <div align="center">
 
-> 🔗 **Próximamente en:** `https://emanuelfuduli.dev`
+> 🔗 *https://emanuelfuduli.vercel.app
 >
 > *Estoy construyendo mi portafolio web — volvé pronto.*
 
