@@ -16,7 +16,7 @@ const emanuelfuduli = {
   rol:         "Estudiante de Ingeniería Informática",
   foco:        ["Frontend", "Backend"],
   stack:       ["JavaScript", "React", "Next.js", "Node.js"],
-  aprendiendo: "Cada día algo nuevo 🚀"
+  aprendiendo: "Cada día algo nuevo 🚀",
   open_to:     "Colaboraciones & proyectos",
 };
 ```
